@@ -18,7 +18,7 @@ Cycle the wallpapers with `omarchy theme bg next`.
 
 The base is `#eeebed`, a slightly warmer adaptation of Latte's porcelain. Text stays `#4c4f69`; small-text accents are deeper versions of the original hues. The checked base text/accent pairs exceed 5.4:1 contrast. Selections use `#dcddeb` with dark text. Window borders use nearby lavender-grey tones: `#8c91b5` active and `#a9adbf` inactive.
 
-The bar surface is transparent by default. Enable Omarchy's **transparent bar** toggle once to also enable its wallpaper-aware icon/text colors; that setting belongs to your shell preferences, which a color-only theme cannot change. It selects dark ink on the nine light backgrounds and porcelain on the three dark skies. Circuit City opens the collection with a light skyline. Menus, tooltips, notifications and lock input remain readable light surfaces.
+The bar surface is transparent by default. Enable Omarchy's **transparent bar** toggle once to also enable its wallpaper-aware icon/text colors; that setting belongs to your shell preferences, which a color-only theme cannot change. It selects dark ink on the nine light backgrounds and porcelain on the three dark skies. Latte Observatory is the default wallpaper, opening the collection with a light mountain sky. Menus, tooltips, notifications and lock input remain readable light surfaces.
 
 ## App coverage
 
@@ -34,10 +34,10 @@ Some applications need their system theme selected once: Claude's `custom:omarch
 
 | Order | File | Scene |
 | --- | --- | --- |
-| 1 | `001-circuit-city.png` | Futuristic city circuit |
-| 2 | `002-alpine-circuit.png` | Lavender-lit alpine circuit and lake |
-| 3 | `003-mesa-reverie.png` | Twilight desert research park |
-| 4 | `004-latte-observatory.png` | Mountain observatory recolored into Latte |
+| 1 | `001-latte-observatory.png` | Mountain observatory recolored into Latte |
+| 2 | `002-circuit-city.png` | Futuristic city circuit |
+| 3 | `003-alpine-circuit.png` | Lavender-lit alpine circuit and lake |
+| 4 | `004-mesa-reverie.png` | Twilight desert research park |
 | 5 | `005-midnight-fjord.png` | Dark forest, fjord and endurance circuit |
 | 6 | `006-quattro-futures.png` | Porcelain racing metropolis in daylight |
 | 7 | `007-mesa-afterlight.png` | Dark slate city simulation model |
