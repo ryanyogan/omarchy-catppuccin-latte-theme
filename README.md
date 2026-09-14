@@ -30,9 +30,9 @@ The bar surface is transparent by default. Enable Omarchy's **transparent bar** 
 
 The repository follows [Omarchy's theme distribution rules](https://omarchy.org/manual/making-your-own-theme/). It does not ship executable root-level Lua, terminal configuration files, or `vscode.json`. Omarchy generates those, or inherits its bundled configuration for this theme name. In particular, Neovim uses the bundled Catppuccin Latte integration when available; otherwise it uses Omarchy's generated editor theme.
 
-Some applications need their system theme selected once: Claude's `custom:omarchy`, Pi's `omarchy-system`, Hermes's `omarchy` skin, and OpenCode's `system` theme. Codex has a separate syntax theme: choose `catppuccin-latte` with `/theme`. Herdr supports automatic switching between `catppuccin-latte` and `catppuccin`; remove any old hard-coded black panel override. Zed's optional Omazed integration must be selected in Zed after it generates the palette.
+Some applications need their system theme selected once: Claude's `custom:omarchy`, Pi's `omarchy-system`, Hermes's `omarchy` skin, and OpenCode's `system` theme. Codex has a separate syntax theme: choose `catppuccin-latte` with `/theme`. For Herdr, use the [optional palette template and sync hook](extras/README.md#herdr): host-based automatic switching can leave dark tab and selection bars inside a light terminal. Zed's optional Omazed integration must be selected in Zed after it generates the palette.
 
-[Optional app refinements](extras/README.md) add softer terminal searches, tmux selections, Lazygit/Lazydocker panels, and Neovim search highlights through Omarchy's documented **user templates** and a local Neovim highlight recipe. They are opt-in and are not executed or installed by cloning the theme. The preview was captured with these local refinements enabled.
+[Optional app refinements](extras/README.md) add softer terminal searches, tmux selections, Herdr UI colors, Lazygit/Lazydocker panels, and Neovim search highlights through Omarchy's documented **user templates**, a local Herdr sync hook, and a local Neovim highlight recipe. They are opt-in and are not executed or installed by cloning the theme. The preview was captured with the terminal, tmux, Lazygit/Lazydocker and Neovim refinements enabled.
 
 ## Wallpapers
 
