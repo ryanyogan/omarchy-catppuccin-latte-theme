@@ -4,6 +4,8 @@ A warm, readable Catppuccin Latte theme for Omarchy: porcelain surfaces, lavende
 
 ![Catppuccin Latte on a real Omarchy desktop](preview.png)
 
+[Full-resolution desktop preview](preview.png): four tiled Foot windows with Neovim, btop, Lazygit, and a shell showing Fastfetch and the palette. Captured at 5120 × 2880 with the existing 2× display scale and 9 pt terminal font. Neovim and Lazygit show a small sample Python project.
+
 ## Install
 
 ```bash
@@ -46,6 +48,8 @@ Some applications need their system theme selected once: Claude's `custom:omarch
 | 10 | `010-garden-city.png` | Canal, gardens and quiet architecture |
 | 11 | `1-color-fade.png` | Pastel Flow — three luminous ribbons on porcelain |
 | 12 | `omarchy.png` | Bundled Omarchy wordmark |
+
+Circuit City also has an [optional AI-reactive glow](docs/reactive-background.md): rosewater for Claude and lavender for Codex activity. This requires a separate background integration; the theme alone displays the static wallpaper.
 
 Three-digit scene prefixes keep Pastel Flow and the bundled Omarchy wallpaper last in Omarchy’s alphabetical ordering. The pastel retains the upstream filename so it replaces the bundled gradient without creating a duplicate.
 

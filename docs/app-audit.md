@@ -11,7 +11,7 @@ The local audit inventoried 153 desktop launchers and the installed terminal too
 | Herdr 0.8.2 | Removed the user's forced black panel background. Built-in automatic Latte/dark switching starts with light panels and readable tabs in Foot. Checked in an isolated session. |
 | tmux | Isolated server starts with light panes, reset session-label styles and palette-derived copy-mode colors. |
 | btop | Light CPU/memory panels, meter gradients and labels inspected; selected/banner roles checked in its theme. |
-| Lazygit / Lazydocker | Live panel borders and selection rows inspected after adding user templates. No Docker/container or repository operations performed. |
+| Lazygit / Lazydocker | Live panel borders, selection rows, and Git diffs inspected. Reproduced dark panels in agent-launched previews with inherited `NO_COLOR=1`; reopening without it restored the configured light colors in both apps. Docker was inspected read-only; the Git diff preview uses a disposable sample repository. |
 | Chromium / GTK | Existing Chromium window inspected; desktop preference is `prefer-light` with `Adwaita` and `Yaru-purple` icons. |
 | Omarchy bar | Transparent text selection checked across all twelve wallpapers. Dark ink selected for nine light backgrounds; porcelain selected for three dark skies. Light and dark desktop captures inspected. |
 
@@ -40,6 +40,6 @@ The local audit inventoried 153 desktop launchers and the installed terminal too
 - Rendered without user templates; checked 31 resulting color/config files for resolved placeholders and JSON/TOML syntax, plus Foot's own config validation.
 - Optional user templates and local fixes are documented separately; an installed theme does not execute or install them.
 - Foreground and all six normal text accents exceed 5.4:1 against the base. The selection pair measures 6.61:1. These are role checks, not whole-application accessibility certification.
-- The gallery image is a real desktop capture with a terminal and Neovim, 1200 × 675 WebP, under 100 KB, with no pointer, notification or personal conversation.
+- The gallery image is a real 5120 × 2880 desktop capture at the existing 2× display scale and 9 pt terminal font, showing four tiled windows: Neovim, btop, Lazygit, and a shell with Fastfetch. The gallery copy is 1200 × 675 WebP, under 100 KB. The screenshot contains no pointer, notification or personal conversation; editor and Git contents are a disposable Python example.
 
 References: [Omarchy theme manual](https://omarchy.org/manual/making-your-own-theme/), [site submission instructions](https://github.com/omacom/omarchy-site#adding-your-theme), [OpenCode themes](https://opencode.ai/docs/themes/), [Codex syntax-theme setting](https://learn.chatgpt.com/docs/config-file/config-reference), [Lazygit configuration](https://github.com/jesseduffield/lazygit/blob/master/docs/Config.md), [Lazydocker configuration](https://github.com/jesseduffield/lazydocker/blob/master/docs/Config.md). Herdr and the remaining integrations were checked against installed help/configuration and local source.

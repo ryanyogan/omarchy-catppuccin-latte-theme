@@ -52,3 +52,14 @@ LineNr = { fg = "#595c74" },
 ```
 
 Apply these only to your Latte configuration. A locally authored theme can contain its own `neovim.lua`; a remotely installed theme cannot supply it.
+
+## Dark or uncolored panels in agent-launched apps
+
+An automation runner can pass `NO_COLOR=1` into a graphical terminal. In the checked Lazygit and Lazydocker versions, that suppresses theme colors and can produce a dark panel on this light palette. Reopening without that inherited variable restored the configured colors:
+
+```bash
+env -u NO_COLOR lazygit
+env -u NO_COLOR lazydocker
+```
+
+Use a normal desktop launch environment for interactive previews, including Fastfetch and other tools that honor `NO_COLOR`. This is a per-launch correction; there is no need to globally disable an intentional no-color preference.
