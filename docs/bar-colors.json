@@ -1,12 +1,14 @@
 {
-  "02-mesa-city-grid.png": "#4c4f69",
-  "03-quattro-park.png": "#4c4f69",
-  "04-garden-city.png": "#4c4f69",
-  "00-quattro-futures.png": "#4c4f69",
-  "01-mesa-afterlight.png": "#eeebed",
-  "05-circuit-city.png": "#4c4f69",
-  "06-alpine-circuit.png": "#4c4f69",
-  "07-mesa-reverie.png": "#eeebed",
-  "08-latte-observatory.png": "#4c4f69",
-  "09-midnight-fjord.png": "#eeebed"
+  "001-circuit-city.png": "#4c4f69",
+  "002-alpine-circuit.png": "#4c4f69",
+  "003-mesa-reverie.png": "#eeebed",
+  "004-latte-observatory.png": "#4c4f69",
+  "005-midnight-fjord.png": "#eeebed",
+  "006-quattro-futures.png": "#4c4f69",
+  "007-mesa-afterlight.png": "#eeebed",
+  "008-mesa-city-grid.png": "#4c4f69",
+  "009-quattro-park.png": "#4c4f69",
+  "010-garden-city.png": "#4c4f69",
+  "1-color-fade.png": "#4c4f69",
+  "omarchy.png": "#4c4f69"
 }

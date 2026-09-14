@@ -1,4 +1,4 @@
-Generated with the built-in imagegen tool on 2026-09-14. Originals are 1672 × 941; no artificial upscaling. Four final wallpapers, including one recolored mountain view. Earlier six wallpapers are from the author's 2026-09-12 collection.
+Generated with the built-in imagegen tool on 2026-09-14. Originals are 1672 × 941; no artificial upscaling. Four landscape wallpapers, including one recolored mountain view, plus a redesigned pastel wallpaper. Earlier six landscapes are from the author's 2026-09-12 collection.
 
 ## Alpine circuit
 

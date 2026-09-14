@@ -13,7 +13,7 @@ The local audit inventoried 153 desktop launchers and the installed terminal too
 | btop | Light CPU/memory panels, meter gradients and labels inspected; selected/banner roles checked in its theme. |
 | Lazygit / Lazydocker | Live panel borders and selection rows inspected after adding user templates. No Docker/container or repository operations performed. |
 | Chromium / GTK | Existing Chromium window inspected; desktop preference is `prefer-light` with `Adwaita` and `Yaru-purple` icons. |
-| Omarchy bar | Transparent text selection checked across all ten wallpapers. Dark ink selected for seven light skies; porcelain selected for three dark skies. Light and dark desktop captures inspected. |
+| Omarchy bar | Transparent text selection checked across all twelve wallpapers. Dark ink selected for nine light backgrounds; porcelain selected for three dark skies. Light and dark desktop captures inspected. |
 
 ## Configuration and output checks
 
