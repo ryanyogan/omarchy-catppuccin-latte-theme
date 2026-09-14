@@ -1,0 +1,39 @@
+# Latte Base with 6% Rosewater; darker ink preserves the official accent hues.
+# Keep saturated text accents separate from quiet lavender window borders.
+
+mode = "light"
+
+accent = "#7d27e1"
+selection = "#dcddeb"
+selection_background = "#dcddeb"
+selection_foreground = "#454862"
+muted = "#595c74"
+
+background = "#eeebed"
+dark_background = "#eceef3"
+darker_background = "#eff1f5"
+lighter_background = "#e6e9ef"
+
+foreground = "#4c4f69"
+dark_foreground = "#595c74"
+light_foreground = "#4c4f69"
+bright_foreground = "#454862"
+
+red = "#be0130"
+yellow = "#865200"
+orange = "#a53d00"
+green = "#1b6c01"
+cyan = "#01686e"
+blue = "#0551df"
+magenta = "#7d27e1"
+brown = "#934939"
+
+bright_red = "#bb0f31"
+bright_yellow = "#7f4d01"
+bright_green = "#196701"
+bright_cyan = "#026777"
+bright_blue = "#014cd7"
+bright_magenta = "#9f3086"
+
+hyprland_active_border = "#8c91b5"
+hyprland_inactive_border = "#a9adbf"

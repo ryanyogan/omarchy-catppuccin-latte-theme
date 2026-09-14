@@ -1,0 +1,5 @@
+set -g mode-style "fg={{ selection_foreground }},bg={{ selection_background }}"
+set -g pane-border-style "fg={{ muted }}"
+set -g pane-active-border-style "fg={{ accent }}"
+set -g message-style "fg={{ foreground }},bg={{ selection_background }}"
+set -g message-command-style "fg={{ foreground }},bg={{ selection_background }}"

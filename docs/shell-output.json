@@ -1,0 +1,14 @@
+{
+  "bat": {
+    "exit": 0,
+    "explicit_background_sequences": []
+  },
+  "eza": {
+    "exit": 0,
+    "explicit_background_sequences": []
+  },
+  "starship": {
+    "exit": 0,
+    "explicit_background_sequences": []
+  }
+}

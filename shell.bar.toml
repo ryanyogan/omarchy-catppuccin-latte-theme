@@ -1,0 +1,9 @@
+# Transparent by default, including on a fresh install. The shell's transparency
+# toggle enables wallpaper-aware text; see README for that user preference.
+background = "#eeebed"
+background-alpha = 0.0
+text = "#4c4f69"
+active = "#be0130"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28

@@ -1,0 +1,1 @@
+--color=fg:{{ foreground }},bg:{{ background }},hl:{{ accent }},fg+:{{ selection_foreground }},bg+:{{ selection_background }},hl+:{{ accent }},border:{{ muted }},prompt:{{ accent }},pointer:{{ accent }},marker:{{ cyan }},spinner:{{ cyan }},header:{{ muted }},info:{{ muted }}
