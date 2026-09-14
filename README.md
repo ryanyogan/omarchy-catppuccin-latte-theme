@@ -2,7 +2,9 @@
 
 A warm, readable Catppuccin Latte theme for Omarchy: porcelain surfaces, lavender selections, and softer window borders. Ten futuristic outdoor scenes mix daylight with deep slate nights, followed by a flowing pastel design and the Omarchy wordmark.
 
-![Catppuccin Latte on a real Omarchy desktop](preview.png)
+## Default desktop — Latte Observatory
+
+[![Latte Observatory with Neovim, btop, Lazygit, and Fastfetch](preview.png)](preview.png)
 
 [Full-resolution desktop preview](preview.png): four tiled Foot windows with Neovim, btop, Lazygit, and a shell showing Fastfetch and the palette. Captured at 5120 × 2880 with the existing 2× display scale and 9 pt terminal font. Neovim and Lazygit show a small sample Python project.
 
@@ -34,20 +36,23 @@ Some applications need their system theme selected once: Claude's `custom:omarch
 
 ## Wallpapers
 
-| Order | File | Scene |
-| --- | --- | --- |
-| 1 | `001-latte-observatory.png` | Mountain observatory recolored into Latte |
-| 2 | `002-circuit-city.png` | Futuristic city circuit |
-| 3 | `003-alpine-circuit.png` | Lavender-lit alpine circuit and lake |
-| 4 | `004-mesa-reverie.png` | Twilight desert research park |
-| 5 | `005-midnight-fjord.png` | Dark forest, fjord and endurance circuit |
-| 6 | `006-quattro-futures.png` | Porcelain racing metropolis in daylight |
-| 7 | `007-mesa-afterlight.png` | Dark slate city simulation model |
-| 8 | `008-mesa-city-grid.png` | Daylight city and terrain grid |
-| 9 | `009-quattro-park.png` | Outdoor circuit through rolling parkland |
-| 10 | `010-garden-city.png` | Canal, gardens and quiet architecture |
-| 11 | `1-color-fade.png` | Pastel Flow — three luminous ribbons on porcelain |
-| 12 | `omarchy.png` | Bundled Omarchy wordmark |
+Twelve included backgrounds span bright alpine landscapes, dark futuristic cities, racing circuits, and soft pastel ribbons. **Latte Observatory is the default.**
+
+<details>
+<summary><strong>Explore all 12 included backgrounds</strong></summary>
+
+The backgrounds appear in this order. Click any preview to open its full image.
+
+| | |
+| --- | --- |
+| **01 · Latte Observatory · default**<br>[![Latte Observatory · default](docs/backgrounds/001-latte-observatory.webp)](backgrounds/001-latte-observatory.png) | **02 · Circuit City · optional AI-reactive glow**<br>[![Circuit City · optional AI-reactive glow](docs/backgrounds/002-circuit-city.webp)](backgrounds/002-circuit-city.png) |
+| **03 · Alpine Circuit**<br>[![Alpine Circuit](docs/backgrounds/003-alpine-circuit.webp)](backgrounds/003-alpine-circuit.png) | **04 · Mesa Reverie**<br>[![Mesa Reverie](docs/backgrounds/004-mesa-reverie.webp)](backgrounds/004-mesa-reverie.png) |
+| **05 · Midnight Fjord**<br>[![Midnight Fjord](docs/backgrounds/005-midnight-fjord.webp)](backgrounds/005-midnight-fjord.png) | **06 · Quattro Futures**<br>[![Quattro Futures](docs/backgrounds/006-quattro-futures.webp)](backgrounds/006-quattro-futures.png) |
+| **07 · Mesa Afterlight**<br>[![Mesa Afterlight](docs/backgrounds/007-mesa-afterlight.webp)](backgrounds/007-mesa-afterlight.png) | **08 · Mesa City Grid**<br>[![Mesa City Grid](docs/backgrounds/008-mesa-city-grid.webp)](backgrounds/008-mesa-city-grid.png) |
+| **09 · Quattro Park**<br>[![Quattro Park](docs/backgrounds/009-quattro-park.webp)](backgrounds/009-quattro-park.png) | **10 · Garden City**<br>[![Garden City](docs/backgrounds/010-garden-city.webp)](backgrounds/010-garden-city.png) |
+| **11 · Pastel Flow**<br>[![Pastel Flow](docs/backgrounds/1-color-fade.webp)](backgrounds/1-color-fade.png) | **12 · Omarchy**<br>[![Omarchy](docs/backgrounds/omarchy.webp)](backgrounds/omarchy.png) |
+
+</details>
 
 Circuit City also has an [optional AI-reactive glow](docs/reactive-background.md): rosewater for Claude and lavender for Codex activity. This requires a separate background integration; the theme alone displays the static wallpaper.
 
