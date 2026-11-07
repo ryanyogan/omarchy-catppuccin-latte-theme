@@ -1,6 +1,6 @@
 # Circuit City: optional AI-reactive glow
 
-`backgrounds/002-circuit-city.png` is the circuit-city scene. Its companion `.reactive.json` file marks the towers and racing line that can glow with local AI activity.
+`backgrounds/002-circuit-city.webp` is the circuit-city scene. Its companion `.reactive.json` file marks the towers and racing line that can glow with local AI activity.
 
 On the author's desktop, the separately customized `ryan.background` Omarchy shell plugin renders these paths:
 

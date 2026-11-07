@@ -45,12 +45,12 @@ The backgrounds appear in this order. Click any preview to open its full image.
 
 | | |
 | --- | --- |
-| **01 · Latte Observatory · default**<br>[![Latte Observatory · default](docs/backgrounds/001-latte-observatory.webp)](backgrounds/001-latte-observatory.png) | **02 · Circuit City · optional AI-reactive glow**<br>[![Circuit City · optional AI-reactive glow](docs/backgrounds/002-circuit-city.webp)](backgrounds/002-circuit-city.png) |
-| **03 · Alpine Circuit**<br>[![Alpine Circuit](docs/backgrounds/003-alpine-circuit.webp)](backgrounds/003-alpine-circuit.png) | **04 · Mesa Reverie**<br>[![Mesa Reverie](docs/backgrounds/004-mesa-reverie.webp)](backgrounds/004-mesa-reverie.png) |
-| **05 · Midnight Fjord**<br>[![Midnight Fjord](docs/backgrounds/005-midnight-fjord.webp)](backgrounds/005-midnight-fjord.png) | **06 · Quattro Futures**<br>[![Quattro Futures](docs/backgrounds/006-quattro-futures.webp)](backgrounds/006-quattro-futures.png) |
-| **07 · Mesa Afterlight**<br>[![Mesa Afterlight](docs/backgrounds/007-mesa-afterlight.webp)](backgrounds/007-mesa-afterlight.png) | **08 · Mesa City Grid**<br>[![Mesa City Grid](docs/backgrounds/008-mesa-city-grid.webp)](backgrounds/008-mesa-city-grid.png) |
-| **09 · Quattro Park**<br>[![Quattro Park](docs/backgrounds/009-quattro-park.webp)](backgrounds/009-quattro-park.png) | **10 · Garden City**<br>[![Garden City](docs/backgrounds/010-garden-city.webp)](backgrounds/010-garden-city.png) |
-| **11 · Pastel Flow**<br>[![Pastel Flow](docs/backgrounds/1-color-fade.webp)](backgrounds/1-color-fade.png) | **12 · Omarchy**<br>[![Omarchy](docs/backgrounds/omarchy.webp)](backgrounds/omarchy.png) |
+| **01 · Latte Observatory · default**<br>[![Latte Observatory · default](docs/backgrounds/001-latte-observatory.webp)](backgrounds/001-latte-observatory.webp) | **02 · Circuit City · optional AI-reactive glow**<br>[![Circuit City · optional AI-reactive glow](docs/backgrounds/002-circuit-city.webp)](backgrounds/002-circuit-city.webp) |
+| **03 · Alpine Circuit**<br>[![Alpine Circuit](docs/backgrounds/003-alpine-circuit.webp)](backgrounds/003-alpine-circuit.webp) | **04 · Mesa Reverie**<br>[![Mesa Reverie](docs/backgrounds/004-mesa-reverie.webp)](backgrounds/004-mesa-reverie.webp) |
+| **05 · Midnight Fjord**<br>[![Midnight Fjord](docs/backgrounds/005-midnight-fjord.webp)](backgrounds/005-midnight-fjord.webp) | **06 · Quattro Futures**<br>[![Quattro Futures](docs/backgrounds/006-quattro-futures.webp)](backgrounds/006-quattro-futures.webp) |
+| **07 · Mesa Afterlight**<br>[![Mesa Afterlight](docs/backgrounds/007-mesa-afterlight.webp)](backgrounds/007-mesa-afterlight.webp) | **08 · Mesa City Grid**<br>[![Mesa City Grid](docs/backgrounds/008-mesa-city-grid.webp)](backgrounds/008-mesa-city-grid.webp) |
+| **09 · Quattro Park**<br>[![Quattro Park](docs/backgrounds/009-quattro-park.webp)](backgrounds/009-quattro-park.webp) | **10 · Garden City**<br>[![Garden City](docs/backgrounds/010-garden-city.webp)](backgrounds/010-garden-city.webp) |
+| **11 · Pastel Flow**<br>[![Pastel Flow](docs/backgrounds/1-color-fade.webp)](backgrounds/1-color-fade.webp) | **12 · Omarchy**<br>[![Omarchy](docs/backgrounds/omarchy.webp)](backgrounds/omarchy.png) |
 
 </details>
 
