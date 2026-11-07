@@ -32,7 +32,7 @@ omarchy theme set catppuccin-latte
 
 Omarchy then renders `~/.local/state/omarchy/current/theme/herdr.toml`. Herdr cannot import it, so replace the `[theme]` section and its subtables in `~/.config/herdr/config.toml` with the generated ones, and set `auto_switch = false` so Herdr keeps them. Reload with `herdr server reload-config`. Repeat after switching to another Omarchy theme. All 19 supported custom tokens are populated: pale selection backgrounds with dark ink, a contrasting accent fill for active tabs, a blended separator color, and readable muted labels. The custom accent takes precedence over an old `[ui] accent = "blue"` setting.
 
-This theme does not ship a hook to automate that step, because Omarchy themes may not include executable code.
+This theme does not ship a hook to automate that step, because Omarchy themes may not include executable code. To automate it, install the separate [omarchy-herdr-theme-sync](https://github.com/ryanyogan/omarchy-herdr-theme-sync) hook, which merges the generated `[theme]` and reloads Herdr on every theme change.
 
 To stop, remove `~/.config/omarchy/themed/herdr.toml.tpl` and restore your preferred `[theme]` settings.
 
